@@ -39,5 +39,5 @@
 <p> public: 0.999957333333 0.0326666666667 </p>
 <p> private: 0.970230421163 0.751341561578 </p>
 
-Команда: Made As Described Earlier
-Лидерборд: https://idao.world/results/
+<p> Команда: Made As Described Earlier  </p>
+<p> Лидерборд: https://idao.world/results/ </p>
