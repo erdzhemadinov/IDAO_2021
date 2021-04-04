@@ -1,0 +1,246 @@
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Starting regression task
+INFO:root:Test energy variance: 15.789560317993164
+INFO:root:Energy correlation plot saved at: ./results/energy_correlation.png
+INFO:root:===> Length: 10000 10000
+INFO:root:Energy comparison plot saved at: ./results/energy_comparison.png
+INFO:root:tensor([10., 10.,  6.,  ..., 20.,  6.,  6.])
+INFO:root:Histogram 1.0 keV saved at: ./results/energy_hist1.0_0.png
+INFO:root:Histogram 3.0 keV saved at: ./results/energy_hist3.0_1.png
+INFO:root:Histogram 6.0 keV saved at: ./results/energy_hist6.0_2.png
+INFO:root:Histogram 10.0 keV saved at: ./results/energy_hist10.0_3.png
+INFO:root:Histogram 20.0 keV saved at: ./results/energy_hist20.0_4.png
+INFO:root:Histogram 30.0 keV saved at: ./results/energy_hist30.0_5.png
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: ./results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.9711340366203547 variance: 1.7853546418552112e-06
+INFO:root:MAE = 7.409336566925049
+INFO:root:AUC = 0.9711340366203547
+INFO:root:Score = AUC - MAE: -6.438202381134033
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Starting regression task
+INFO:root:Test energy variance: 16014.6796875
+INFO:root:Energy correlation plot saved at: ./results/energy_correlation.png
+INFO:root:===> Length: 10000 10000
+INFO:root:Energy comparison plot saved at: ./results/energy_comparison.png
+INFO:root:tensor([20., 20.,  3.,  ..., 10., 30.,  6.])
+INFO:root:Histogram 1.0 keV saved at: ./results/energy_hist1.0_0.png
+INFO:root:Histogram 3.0 keV saved at: ./results/energy_hist3.0_1.png
+INFO:root:Histogram 6.0 keV saved at: ./results/energy_hist6.0_2.png
+INFO:root:Histogram 10.0 keV saved at: ./results/energy_hist10.0_3.png
+INFO:root:Histogram 20.0 keV saved at: ./results/energy_hist20.0_4.png
+INFO:root:Histogram 30.0 keV saved at: ./results/energy_hist30.0_5.png
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: ./results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.5336433801701959 variance: 3.1056637085949515e-06
+INFO:root:MAE = 365.5950622558594
+INFO:root:AUC = 0.5336433801701959
+INFO:root:Score = AUC - MAE: -365.0614318847656
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Starting regression task
+INFO:root:Test energy variance: 0.11962493509054184
+INFO:root:Energy correlation plot saved at: ./results/energy_correlation.png
+INFO:root:===> Length: 10000 10000
+INFO:root:Energy comparison plot saved at: ./results/energy_comparison.png
+INFO:root:tensor([ 3.,  6.,  6.,  ...,  3., 10.,  6.])
+INFO:root:Histogram 1.0 keV saved at: ./results/energy_hist1.0_0.png
+INFO:root:Histogram 3.0 keV saved at: ./results/energy_hist3.0_1.png
+INFO:root:Histogram 6.0 keV saved at: ./results/energy_hist6.0_2.png
+INFO:root:Histogram 10.0 keV saved at: ./results/energy_hist10.0_3.png
+INFO:root:Histogram 20.0 keV saved at: ./results/energy_hist20.0_4.png
+INFO:root:Histogram 30.0 keV saved at: ./results/energy_hist30.0_5.png
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: ./results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.97317404583579 variance: 1.750357898405493e-06
+INFO:root:MAE = 1.9818187952041626
+INFO:root:AUC = 0.97317404583579
+INFO:root:Score = AUC - MAE: -1.0086448192596436
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Starting regression task
+INFO:root:Test energy variance: 0.11962493509054184
+INFO:root:Energy correlation plot saved at: ./results/energy_correlation.png
+INFO:root:===> Length: 10000 10000
+INFO:root:Energy comparison plot saved at: ./results/energy_comparison.png
+INFO:root:tensor([30., 30., 30.,  ...,  6., 10., 30.])
+INFO:root:Histogram 1.0 keV saved at: ./results/energy_hist1.0_0.png
+INFO:root:Histogram 3.0 keV saved at: ./results/energy_hist3.0_1.png
+INFO:root:Histogram 6.0 keV saved at: ./results/energy_hist6.0_2.png
+INFO:root:Histogram 10.0 keV saved at: ./results/energy_hist10.0_3.png
+INFO:root:Histogram 20.0 keV saved at: ./results/energy_hist20.0_4.png
+INFO:root:Histogram 30.0 keV saved at: ./results/energy_hist30.0_5.png
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: ./results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.97317404583579 variance: 1.750357898405493e-06
+INFO:root:MAE = 1.9818185567855835
+INFO:root:AUC = 0.97317404583579
+INFO:root:Score = AUC - MAE: -1.0086445808410645
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Starting regression task
+INFO:root:Test energy variance: 0.010668881237506866
+INFO:root:Energy correlation plot saved at: ./results/energy_correlation.png
+INFO:root:===> Length: 10000 10000
+INFO:root:Energy comparison plot saved at: ./results/energy_comparison.png
+INFO:root:tensor([30.,  1., 20.,  ...,  6., 20.,  1.])
+INFO:root:Histogram 1.0 keV saved at: ./results/energy_hist1.0_0.png
+INFO:root:Histogram 3.0 keV saved at: ./results/energy_hist3.0_1.png
+INFO:root:Histogram 6.0 keV saved at: ./results/energy_hist6.0_2.png
+INFO:root:Histogram 10.0 keV saved at: ./results/energy_hist10.0_3.png
+INFO:root:Histogram 20.0 keV saved at: ./results/energy_hist20.0_4.png
+INFO:root:Histogram 30.0 keV saved at: ./results/energy_hist30.0_5.png
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: ./results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.9998778662770549 variance: 3.2732349858192794e-09
+INFO:root:MAE = 0.6540462374687195
+INFO:root:AUC = 0.9998778662770549
+INFO:root:Score = AUC - MAE: 0.34583163261413574
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Starting regression task
+INFO:root:Test energy variance: 0.010668881237506866
+INFO:root:Energy correlation plot saved at: ./results/energy_correlation.png
+INFO:root:===> Length: 10000 10000
+INFO:root:Energy comparison plot saved at: ./results/energy_comparison.png
+INFO:root:tensor([ 3.,  6., 30.,  ..., 10., 10., 10.])
+INFO:root:Histogram 1.0 keV saved at: ./results/energy_hist1.0_0.png
+INFO:root:Histogram 3.0 keV saved at: ./results/energy_hist3.0_1.png
+INFO:root:Histogram 6.0 keV saved at: ./results/energy_hist6.0_2.png
+INFO:root:Histogram 10.0 keV saved at: ./results/energy_hist10.0_3.png
+INFO:root:Histogram 20.0 keV saved at: ./results/energy_hist20.0_4.png
+INFO:root:Histogram 30.0 keV saved at: ./results/energy_hist30.0_5.png
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: ./results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.9998778662770549 variance: 3.2732349858192836e-09
+INFO:root:MAE = 0.6540462374687195
+INFO:root:AUC = 0.9998778662770549
+INFO:root:Score = AUC - MAE: 0.34583163261413574
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Starting regression task
+INFO:root:Test energy variance: 0.010668881237506866
+INFO:root:Energy correlation plot saved at: ./results/energy_correlation.png
+INFO:root:===> Length: 10000 10000
+INFO:root:Energy comparison plot saved at: ./results/energy_comparison.png
+INFO:root:tensor([10.,  3.,  3.,  ..., 10.,  6.,  1.])
+INFO:root:Histogram 1.0 keV saved at: ./results/energy_hist1.0_0.png
+INFO:root:Histogram 3.0 keV saved at: ./results/energy_hist3.0_1.png
+INFO:root:Histogram 6.0 keV saved at: ./results/energy_hist6.0_2.png
+INFO:root:Histogram 10.0 keV saved at: ./results/energy_hist10.0_3.png
+INFO:root:Histogram 20.0 keV saved at: ./results/energy_hist20.0_4.png
+INFO:root:Histogram 30.0 keV saved at: ./results/energy_hist30.0_5.png
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: ./results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.9998778662770549 variance: 3.2732349858192836e-09
+INFO:root:MAE = 0.6540462374687195
+INFO:root:AUC = 0.9998778662770549
+INFO:root:Score = AUC - MAE: 0.34583163261413574
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Starting regression task
+INFO:root:Test energy variance: 0.010668881237506866
+INFO:root:Energy correlation plot saved at: ./results/energy_correlation.png
+INFO:root:===> Length: 10000 10000
+INFO:root:Energy comparison plot saved at: ./results/energy_comparison.png
+INFO:root:tensor([30., 30., 20.,  ...,  3., 20.,  3.])
+INFO:root:Histogram 1.0 keV saved at: ./results/energy_hist1.0_0.png
+INFO:root:Histogram 3.0 keV saved at: ./results/energy_hist3.0_1.png
+INFO:root:Histogram 6.0 keV saved at: ./results/energy_hist6.0_2.png
+INFO:root:Histogram 10.0 keV saved at: ./results/energy_hist10.0_3.png
+INFO:root:Histogram 20.0 keV saved at: ./results/energy_hist20.0_4.png
+INFO:root:Histogram 30.0 keV saved at: ./results/energy_hist30.0_5.png
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: ./results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.9998778662770549 variance: 3.273234985819287e-09
+INFO:root:MAE = 0.6540462970733643
+INFO:root:AUC = 0.9998778662770549
+INFO:root:Score = AUC - MAE: 0.34583157300949097
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Starting regression task
+INFO:root:Test energy variance: 0.029600612819194794
+INFO:root:Energy correlation plot saved at: ./results/energy_correlation.png
+INFO:root:===> Length: 10000 10000
+INFO:root:Energy comparison plot saved at: ./results/energy_comparison.png
+INFO:root:tensor([ 1.,  6.,  1.,  ..., 30.,  6.,  1.])
+INFO:root:Histogram 1.0 keV saved at: ./results/energy_hist1.0_0.png
+INFO:root:Histogram 3.0 keV saved at: ./results/energy_hist3.0_1.png
+INFO:root:Histogram 6.0 keV saved at: ./results/energy_hist6.0_2.png
+INFO:root:Histogram 10.0 keV saved at: ./results/energy_hist10.0_3.png
+INFO:root:Histogram 20.0 keV saved at: ./results/energy_hist20.0_4.png
+INFO:root:Histogram 30.0 keV saved at: ./results/energy_hist30.0_5.png
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: ./results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.9998623845375267 variance: 4.04699359406686e-09
+INFO:root:MAE = 0.8241261839866638
+INFO:root:AUC = 0.9998623845375267
+INFO:root:Score = AUC - MAE: 0.1757361888885498
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Starting regression task
+INFO:root:Test energy variance: 0.003832673653960228
+INFO:root:Energy correlation plot saved at: ./results/energy_correlation.png
+INFO:root:===> Length: 10000 10000
+INFO:root:Energy comparison plot saved at: ./results/energy_comparison.png
+INFO:root:tensor([ 3., 20.,  6.,  ...,  3.,  3.,  1.])
+INFO:root:Histogram 1.0 keV saved at: ./results/energy_hist1.0_0.png
+INFO:root:Histogram 3.0 keV saved at: ./results/energy_hist3.0_1.png
+INFO:root:Histogram 6.0 keV saved at: ./results/energy_hist6.0_2.png
+INFO:root:Histogram 10.0 keV saved at: ./results/energy_hist10.0_3.png
+INFO:root:Histogram 20.0 keV saved at: ./results/energy_hist20.0_4.png
+INFO:root:Histogram 30.0 keV saved at: ./results/energy_hist30.0_5.png
+INFO:root:Loading checkpoint
+INFO:root:Loading checkpoint
+INFO:root:Regression model loaded
+INFO:root:Starting regression task
+INFO:root:Test energy variance: 0.003832673653960228
+INFO:root:Energy correlation plot saved at: ./results/energy_correlation.png
+INFO:root:===> Length: 10000 10000
+INFO:root:Energy comparison plot saved at: ./results/energy_comparison.png
+INFO:root:tensor([20.,  1.,  1.,  ...,  6., 20., 10.])
+INFO:root:Histogram 1.0 keV saved at: ./results/energy_hist1.0_0.png
+INFO:root:Histogram 3.0 keV saved at: ./results/energy_hist3.0_1.png
+INFO:root:Histogram 6.0 keV saved at: ./results/energy_hist6.0_2.png
+INFO:root:Histogram 10.0 keV saved at: ./results/energy_hist10.0_3.png
+INFO:root:Histogram 20.0 keV saved at: ./results/energy_hist20.0_4.png
+INFO:root:Histogram 30.0 keV saved at: ./results/energy_hist30.0_5.png
+INFO:root:Loading checkpoint
+INFO:root:Classification model loaded
+INFO:root:Starting classification task
+INFO:root:ROC plot saved at: ./results/roc_auc.png
+INFO:root:Delong => ROC-AUC: 0.9998081384424353 variance: 4.608674884383483e-09
+INFO:root:MAE = 0.4214470088481903
+INFO:root:AUC = 0.9998081384424353
+INFO:root:Score = AUC - MAE: 0.5783611536026001
